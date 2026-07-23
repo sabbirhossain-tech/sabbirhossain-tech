@@ -18,7 +18,7 @@ My public repositories focus on sanitized, reproducible DevOps patterns rather t
 
 | Project | Focus |
 |---|---|
-| [CI/CD Pipeline Patterns](https://github.com/sabbirhossain-tech/cicd-pipeline) | Multi-platform build, test, publish and deployment workflows |
+| [CI/CD Pipeline Patterns](https://github.com/sabbirhossain-tech/cicd_pipeline) | Multi-platform build, test, publish and deployment workflows |
 | [Kubernetes Production Patterns](https://github.com/sabbirhossain-tech/kubernetes-production-patterns) | Secure manifests and environment overlays |
 | [Terraform AWS Platform](https://github.com/sabbirhossain-tech/terraform-aws-platform) | Reusable network module with environment isolation |
 | [Observability Stack](https://github.com/sabbirhossain-tech/observability-stack) | Metrics, logs, dashboards and alert routing |
