@@ -19,11 +19,12 @@ My public repositories focus on sanitized, reproducible DevOps patterns rather t
 | Project | Focus |
 |---|---|
 | [CI/CD Pipeline Patterns](https://github.com/sabbirhossain-tech/cicd_pipeline) | Multi-platform build, test, publish and deployment workflows |
+| [Containerized App Examples](https://github.com/sabbirhossain-tech/containerized-app-examples) | Next.js, Angular, FastAPI and .NET 10 images |
+| [Observability Stack](https://github.com/sabbirhossain-tech/observability-stack) | Metrics, logs, dashboards and alert routing |
 | [Kubernetes Production Patterns](https://github.com/sabbirhossain-tech/kubernetes-production-patterns) | Secure manifests and environment overlays |
 | [Terraform AWS Platform](https://github.com/sabbirhossain-tech/terraform-aws-platform) | Reusable network module with environment isolation |
-| [Observability Stack](https://github.com/sabbirhossain-tech/observability-stack) | Metrics, logs, dashboards and alert routing |
 | [Ansible Linux Hardening](https://github.com/sabbirhossain-tech/ansible-linux-hardening) | Repeatable server baseline automation |
-| [Containerized App Examples](https://github.com/sabbirhossain-tech/containerized-app-examples) | Next.js, Angular, FastAPI and .NET 10 images |
+
 
 ## Engineering principles
 
