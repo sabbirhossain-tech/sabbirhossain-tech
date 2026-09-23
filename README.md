@@ -1,6 +1,6 @@
 # Md Sabbir Hossain
 
-**DevOps Engineer | CI/CD | Containers | Kubernetes | Cloud Infrastructure | Observability**
+**DevSecOps Engineer | CI/CD Security | Containers | Kubernetes | Cloud Infrastructure | Observability**
 
 I build repeatable delivery systems that move applications from source control to stable production environments.
 My public repositories focus on sanitized, reproducible DevOps patterns rather than company-specific code.
